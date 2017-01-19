@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>influxdb</short>
+  <description>Influxdb service</description>
+  <port protocol="tcp" port="8086"/>
+  <port protocol="udp" port="8086"/>
+</service>
